@@ -1,8 +1,8 @@
 # curso-Maching-Learning
 ##Día1
 Indice:
-**M5-01-Python Notebook:** 
-**Phython data Types**
+M5-01-Python Notebook:
+Phython data Types
 -String
 -Numbers
 -Lists
@@ -11,16 +11,16 @@ Indice:
 -Sets
 -Boolean
 
-**M5-02-Condicionales**
+M5-02-Condicionales
 -Condicionales
 
-**M5-03-Bucles**
+M5-03-Bucles
 -While
 -Iterar con for
 -Generar secuencias de números 
 
-**M5-04-Funciones**
+M5-04-Funciones
 
-**M5-05-Clases**
+M5-05-Clases
 ##Día2
 
