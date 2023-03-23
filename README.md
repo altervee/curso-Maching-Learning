@@ -23,4 +23,11 @@ M5-04-Funciones
 
 M5-05-Clases
 ##Día2
+-Impotarción de librerias 
+  .Get y dataframes
+  .Filtro dataframe
+-Subida de datos
+-Queries 
+
+
 
