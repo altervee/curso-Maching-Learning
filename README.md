@@ -1,5 +1,5 @@
 # curso-Maching-Learning
-##Día1
+## Día1
 Indice:
 M5-01-Python Notebook:
 Phython data Types
@@ -22,7 +22,7 @@ M5-03-Bucles
 M5-04-Funciones
 
 M5-05-Clases
-##Día2
+## Día2
 -Impotarción de librerias 
   .Get y dataframes
   .Filtro dataframe
