@@ -28,6 +28,13 @@ M5-05-Clases
   .Filtro dataframe
 -Subida de datos
 -Queries 
+##Día3
+## Día 3 - Jueves
 
+M5 - 06 - Introducción a Machine Learning con Scikit-Learn
+
+M5 - 07 - Regresión
+
+M5 - 09 - Folium
 
 
