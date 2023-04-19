@@ -39,5 +39,12 @@ M5 - 09 - Folium
 ##Día 4
 ## Día 4 - Viernes
 
-
+M5 - 05 - 05 Análisis de las ubicaciones de los sitios de lanzamiento con Folium
+M5 - 05 - 05 Marcar en el mapa los lanzamientos exitosos/fracasados de cada sitio
+M5 - 05 - 05 Calcular las distancias entre un lugar de lanzamiento y sus proximidades
+M5 - 05 - 06 Predicción mediante aprendizaje automático
+M5 - 05 - 09 Generando mapas con Python
+M5 - 05 - 09 Introducción a Folium
+M5 - 05 - 09 Mapas con indicadores
+M5 - 05 - 09 Mapas de Coropletas
 
